@@ -1,4 +1,4 @@
-package com.hackerrank.solutions.service;
+package com.hackerrank.solutions.service.twostrings;
 
 import org.springframework.stereotype.Service;
 

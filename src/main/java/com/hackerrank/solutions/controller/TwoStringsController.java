@@ -1,6 +1,6 @@
 package com.hackerrank.solutions.controller;
 
-import com.hackerrank.solutions.service.TwoStringsService;
+import com.hackerrank.solutions.service.twostrings.TwoStringsService;
 import com.hackerrank.solutions.util.ApiConstants;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
