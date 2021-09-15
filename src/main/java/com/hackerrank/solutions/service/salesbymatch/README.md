@@ -50,4 +50,6 @@ STDIN                       Function
 
 ### Explanation
 
+![1474122392-c7b9097430-sock](https://user-images.githubusercontent.com/36689991/133445970-6e228396-e0d5-45f6-87c3-d551f08ee2d6.png)
 
+There are three pairs of socks.
